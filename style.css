@@ -1,0 +1,45 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+/* Style main content */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Style sections */
+section {
+    margin-bottom: 2rem;
+}
+
+/* Style ordered list */
+ol {
+    list-style-type: decimal;
+    padding-left: 2rem;
+}
+
+/* Style unordered list */
+ul {
+    list-style-type: disc;
+    padding-left: 2rem;
+}
+
+/* Style footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
